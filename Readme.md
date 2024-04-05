@@ -39,7 +39,6 @@ Jane,25,Los Angeles
 
 Running the script:
 
-kotlin
 
 node csvToJson.js data.csv
 
